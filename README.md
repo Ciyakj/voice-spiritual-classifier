@@ -4,7 +4,7 @@ A voice-first app that listens to questions and responds with spiritual guidance
 
 ## Quick Start
 
-### Prerequisites
+### Prerequisites 
 - Node.js 16+ 
 - npm or yarn
 - Microphone access (browser)
